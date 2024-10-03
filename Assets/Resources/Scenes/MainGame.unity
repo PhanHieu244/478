@@ -171,6 +171,12 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4290356580093933715, guid: 665b17638f11b744aaa66153ad6c6933,
+        type: 3}
+      propertyPath: PlayerCoinTotal
+      value: 
+      objectReference: {fileID: 11400000, guid: fd822163094fdd140ab3ad7e69b44dd9,
+        type: 2}
     - target: {fileID: 8031432047525785082, guid: 665b17638f11b744aaa66153ad6c6933,
         type: 3}
       propertyPath: m_AnchorMax.y
@@ -1728,6 +1734,12 @@ PrefabInstance:
       propertyPath: m_AnchorMax.y
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5309033945319225208, guid: 9cfe9c469e624e84b83ba074a9f7a0f1,
+        type: 3}
+      propertyPath: PlayerCoinTotal
+      value: 
+      objectReference: {fileID: 11400000, guid: fd822163094fdd140ab3ad7e69b44dd9,
+        type: 2}
     - target: {fileID: 5626750912659968959, guid: 9cfe9c469e624e84b83ba074a9f7a0f1,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
